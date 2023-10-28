@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@yornamezzz</id>
+  <title>yornamezzz TikTok</title>
+  <updated>2023-10-23T16:07:11+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://rockrocketzz.github.io/tiktok-rss-flat/rss/yornamezzz.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7292737343528750341</id>
+    <title>Pilih skin apa? #fyp #elvaracaliva #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-10-22T11:05:33+00:00</updated>
+    <content>Pilih skin apa? #fyp #elvaracaliva #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7292737343528750341" rel="alternate"/>
+    <published>2023-10-22T11:05:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7292823159026273541</id>
+    <title>Pilih mana? #fyp #keysyit #rachel #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-10-22T16:38:33+00:00</updated>
+    <content>Pilih mana? #fyp #keysyit #rachel #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7292823159026273541" rel="alternate"/>
+    <published>2023-10-22T16:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7293084703672782086</id>
+    <title>Pilih mana? #fyp #keysyit #naylaastrid #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-10-23T09:33:28+00:00</updated>
+    <content>Pilih mana? #fyp #keysyit #naylaastrid #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7293084703672782086" rel="alternate"/>
+    <published>2023-10-23T09:33:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7293084839320816902</id>
+    <title>Part 2 #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-10-23T09:34:02+00:00</updated>
+    <content>Part 2 #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7293084839320816902" rel="alternate"/>
+    <published>2023-10-23T09:34:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7293186159193099525</id>
+    <title>Live Keyshit tonight #keyshittttttt </title>
+    <updated>2023-10-23T16:07:11+00:00</updated>
+    <content>Live Keyshit tonight #keyshittttttt </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7293186159193099525" rel="alternate"/>
+    <published>2023-10-23T16:07:11+00:00</published>
+  </entry>
+</feed>
