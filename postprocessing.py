@@ -10,7 +10,7 @@ from tiktokapipy.async_api import AsyncTikTokAPI
 ghPagesURL = "https://rockrocketzz.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.conoroneill.com/"
+# ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
 maxItems = 5
 
