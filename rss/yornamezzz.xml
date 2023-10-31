@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-10-29T16:15:32+00:00</updated>
+  <updated>2023-10-31T17:05:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7292823159026273541</id>
-    <title>Pilih mana? #fyp #keysyit #rachel #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-10-22T16:38:33+00:00</updated>
-    <content>Pilih mana? #fyp #keysyit #rachel #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7292823159026273541" rel="alternate"/>
-    <published>2023-10-22T16:38:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7293084703672782086</id>
     <title>Pilih mana? #fyp #keysyit #naylaastrid #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +43,13 @@
     <content>Mommy Key #fyp #keyshittttttt #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7295414821695130886" rel="alternate"/>
     <published>2023-10-29T16:15:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7296169743956905221</id>
+    <title>Kak Erinta #fyp #erinta #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-10-31T17:05:01+00:00</updated>
+    <content>Kak Erinta #fyp #erinta #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7296169743956905221" rel="alternate"/>
+    <published>2023-10-31T17:05:01+00:00</published>
   </entry>
 </feed>
