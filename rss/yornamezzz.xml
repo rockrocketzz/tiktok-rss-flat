@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-04T07:41:37+00:00</updated>
+  <updated>2023-11-04T17:38:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7296169743956905221</id>
-    <title>Kak Erinta #fyp #erinta #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-10-31T17:05:01+00:00</updated>
-    <content>Kak Erinta #fyp #erinta #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7296169743956905221" rel="alternate"/>
-    <published>2023-10-31T17:05:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7296865003230055685</id>
     <title>Mommy Key #fyp #keyshittttttt #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +43,13 @@
     <content>Cebelapa gede cii #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7297508897965804806" rel="alternate"/>
     <published>2023-11-04T07:41:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7297662767929068806</id>
+    <title>niii</title>
+    <updated>2023-11-04T17:38:43+00:00</updated>
+    <content>niii</content>
+    <link href="https://tiktok.com/@yornamezzz/video/7297662767929068806" rel="alternate"/>
+    <published>2023-11-04T17:38:43+00:00</published>
   </entry>
 </feed>
