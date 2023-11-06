@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-06T16:22:16+00:00</updated>
+  <updated>2023-11-06T16:41:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7297662767929068806</id>
-    <title>niii</title>
-    <updated>2023-11-04T17:38:43+00:00</updated>
-    <content>niii</content>
-    <link href="https://tiktok.com/@yornamezzz/video/7297662767929068806" rel="alternate"/>
-    <published>2023-11-04T17:38:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7297882041817812230</id>
-    <title>Tren jadul niii #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-05T07:49:37+00:00</updated>
-    <content>Tren jadul niii #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7297882041817812230" rel="alternate"/>
-    <published>2023-11-05T07:49:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7297954400956370182</id>
     <title>Suka skin apa? #fyp #keyshittttttt #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +35,21 @@
     <content>nii</content>
     <link href="https://tiktok.com/@yornamezzz/video/7298385239259221253" rel="alternate"/>
     <published>2023-11-06T16:22:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7298387508528827654</id>
+    <title>Amoura ni bos #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-11-06T16:31:05+00:00</updated>
+    <content>Amoura ni bos #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7298387508528827654" rel="alternate"/>
+    <published>2023-11-06T16:31:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7298390171899186438</id>
+    <title>Kakak Zey #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-11-06T16:41:26+00:00</updated>
+    <content>Kakak Zey #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7298390171899186438" rel="alternate"/>
+    <published>2023-11-06T16:41:26+00:00</published>
   </entry>
 </feed>
