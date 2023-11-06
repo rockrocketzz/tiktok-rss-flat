@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-06T09:08:26+00:00</updated>
+  <updated>2023-11-06T16:22:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7297508897965804806</id>
-    <title>Cebelapa gede cii #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-04T07:41:37+00:00</updated>
-    <content>Cebelapa gede cii #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7297508897965804806" rel="alternate"/>
-    <published>2023-11-04T07:41:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7297662767929068806</id>
     <title>niii</title>
@@ -51,5 +43,13 @@
     <content>niii #fakebodyy⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7298273436286061829" rel="alternate"/>
     <published>2023-11-06T09:08:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7298385239259221253</id>
+    <title>nii</title>
+    <updated>2023-11-06T16:22:16+00:00</updated>
+    <content>nii</content>
+    <link href="https://tiktok.com/@yornamezzz/video/7298385239259221253" rel="alternate"/>
+    <published>2023-11-06T16:22:16+00:00</published>
   </entry>
 </feed>
