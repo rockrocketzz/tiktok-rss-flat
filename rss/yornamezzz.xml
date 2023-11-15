@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-15T09:15:08+00:00</updated>
+  <updated>2023-11-15T09:51:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7300606784866143493</id>
-    <title>Dancing #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-12T16:03:00+00:00</updated>
-    <content>Dancing #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7300606784866143493" rel="alternate"/>
-    <published>2023-11-12T16:03:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7300606857394064645</id>
-    <title>Mommy Kara #fyp #kara #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-12T16:03:23+00:00</updated>
-    <content>Mommy Kara #fyp #kara #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7300606857394064645" rel="alternate"/>
-    <published>2023-11-12T16:03:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7300607017012448518</id>
-    <title>Mommy Eja #fyp #ejahazel #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-12T16:03:52+00:00</updated>
-    <content>Mommy Eja #fyp #ejahazel #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7300607017012448518" rel="alternate"/>
-    <published>2023-11-12T16:03:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7301614814705634566</id>
     <title>Rajut bang #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +27,29 @@
     <content>Barudak SMA #fyp #sma #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7301614933433781510" rel="alternate"/>
     <published>2023-11-15T09:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7301618370279984390</id>
+    <title>Mommy Manda #fyp #amandazahra #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-11-15T09:28:29+00:00</updated>
+    <content>Mommy Manda #fyp #amandazahra #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7301618370279984390" rel="alternate"/>
+    <published>2023-11-15T09:28:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7301618587041615109</id>
+    <title>Mommy Manda #fyp #amandazahra #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-11-15T09:29:18+00:00</updated>
+    <content>Mommy Manda #fyp #amandazahra #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7301618587041615109" rel="alternate"/>
+    <published>2023-11-15T09:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7301624223938694405</id>
+    <title>Mbak Risa #fyp #notrisaa #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-11-15T09:51:10+00:00</updated>
+    <content>Mbak Risa #fyp #notrisaa #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7301624223938694405" rel="alternate"/>
+    <published>2023-11-15T09:51:10+00:00</published>
   </entry>
 </feed>
