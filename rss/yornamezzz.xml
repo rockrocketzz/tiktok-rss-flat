@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-19T15:13:55+00:00</updated>
+  <updated>2023-11-19T15:36:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7303185708242455814</id>
-    <title>Risaaa #fyp #fakebodyy⚠️ #fakesituation⚠️ #notrisaa </title>
-    <updated>2023-11-19T14:50:32+00:00</updated>
-    <content>Risaaa #fyp #fakebodyy⚠️ #fakesituation⚠️ #notrisaa </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7303185708242455814" rel="alternate"/>
-    <published>2023-11-19T14:50:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7303187096427089158</id>
-    <title>My Girl #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-19T14:55:55+00:00</updated>
-    <content>My Girl #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7303187096427089158" rel="alternate"/>
-    <published>2023-11-19T14:55:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7303190271037050118</id>
     <title>Pilih mode apa #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +35,21 @@
     <content>Ciro² #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7303191736036183302" rel="alternate"/>
     <published>2023-11-19T15:13:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7303194765124848902</id>
+    <title>Membalas @rasskyy11 nih</title>
+    <updated>2023-11-19T15:25:42+00:00</updated>
+    <content>Membalas @rasskyy11 nih</content>
+    <link href="https://tiktok.com/@yornamezzz/video/7303194765124848902" rel="alternate"/>
+    <published>2023-11-19T15:25:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7303197554315922693</id>
+    <title>Kak Dea #fyp #fakebodyy⚠️ #fakesituation⚠️ #dearizkyer </title>
+    <updated>2023-11-19T15:36:30+00:00</updated>
+    <content>Kak Dea #fyp #fakebodyy⚠️ #fakesituation⚠️ #dearizkyer </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7303197554315922693" rel="alternate"/>
+    <published>2023-11-19T15:36:30+00:00</published>
   </entry>
 </feed>
