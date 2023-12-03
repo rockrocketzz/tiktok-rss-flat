@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-11-30T15:39:42+00:00</updated>
+  <updated>2023-12-03T07:56:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7306644507502628101</id>
-    <title>Mommy Kara #fyp #kara #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-11-28T22:32:27+00:00</updated>
-    <content>Mommy Kara #fyp #kara #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7306644507502628101" rel="alternate"/>
-    <published>2023-11-28T22:32:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7306646960570731782</id>
     <title>Mommy Hawai #fyp #hawai #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +43,13 @@
     <content>Ciro² #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7307280316492827909" rel="alternate"/>
     <published>2023-11-30T15:39:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7308274192909094150</id>
+    <title>Ukhti esme #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-12-03T07:56:28+00:00</updated>
+    <content>Ukhti esme #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7308274192909094150" rel="alternate"/>
+    <published>2023-12-03T07:56:28+00:00</published>
   </entry>
 </feed>
