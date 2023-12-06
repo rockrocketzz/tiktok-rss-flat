@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yornamezzz</id>
   <title>yornamezzz TikTok</title>
-  <updated>2023-12-05T16:35:36+00:00</updated>
+  <updated>2023-12-06T16:53:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://rockrocketzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yornamezzz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7309137056884657414</id>
-    <title>Ciro² #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-12-05T15:44:48+00:00</updated>
-    <content>Ciro² #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7309137056884657414" rel="alternate"/>
-    <published>2023-12-05T15:44:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@yornamezzz/video/7309139017570798853</id>
-    <title>Kakakku #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
-    <updated>2023-12-05T15:52:25+00:00</updated>
-    <content>Kakakku #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
-    <link href="https://tiktok.com/@yornamezzz/video/7309139017570798853" rel="alternate"/>
-    <published>2023-12-05T15:52:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yornamezzz/video/7309139582627384581</id>
     <title>No Capt #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
@@ -51,5 +35,21 @@
     <content>Mommy Eve #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
     <link href="https://tiktok.com/@yornamezzz/video/7309150142635068677" rel="alternate"/>
     <published>2023-12-05T16:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7309523272758988038</id>
+    <title>Hai #fyp #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-12-06T16:43:31+00:00</updated>
+    <content>Hai #fyp #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7309523272758988038" rel="alternate"/>
+    <published>2023-12-06T16:43:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yornamezzz/video/7309525868274060550</id>
+    <title>Workout bareng kak dea #fyp #dearizkyer #fakebodyy⚠️ #fakesituation⚠️ </title>
+    <updated>2023-12-06T16:53:35+00:00</updated>
+    <content>Workout bareng kak dea #fyp #dearizkyer #fakebodyy⚠️ #fakesituation⚠️ </content>
+    <link href="https://tiktok.com/@yornamezzz/video/7309525868274060550" rel="alternate"/>
+    <published>2023-12-06T16:53:35+00:00</published>
   </entry>
 </feed>
